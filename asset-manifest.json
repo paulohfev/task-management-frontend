@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://paulohfev.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css",
+    "main.js": "https://paulohfev.github.io/task-management-frontend/static/js/main.19e6bd50.chunk.js",
+    "main.js.map": "https://paulohfev.github.io/task-management-frontend/static/js/main.19e6bd50.chunk.js.map",
+    "runtime~main.js": "https://paulohfev.github.io/task-management-frontend/static/js/runtime~main.5985b171.js",
+    "runtime~main.js.map": "https://paulohfev.github.io/task-management-frontend/static/js/runtime~main.5985b171.js.map",
+    "static/js/2.35271f9a.chunk.js": "https://paulohfev.github.io/task-management-frontend/static/js/2.35271f9a.chunk.js",
+    "static/js/2.35271f9a.chunk.js.map": "https://paulohfev.github.io/task-management-frontend/static/js/2.35271f9a.chunk.js.map",
+    "index.html": "https://paulohfev.github.io/task-management-frontend/index.html",
+    "precache-manifest.92a8dd2f70b0c7755eb16bea485285c2.js": "https://paulohfev.github.io/task-management-frontend/precache-manifest.92a8dd2f70b0c7755eb16bea485285c2.js",
+    "service-worker.js": "https://paulohfev.github.io/task-management-frontend/service-worker.js",
+    "static/css/main.5ac26d30.chunk.css.map": "https://paulohfev.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css.map"
+  }
+}
